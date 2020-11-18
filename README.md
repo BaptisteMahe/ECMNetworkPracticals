@@ -2,7 +2,7 @@
 
 A place to share my Network Practicals at ECM
 
-Address IPv4 computation : https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/
+Address IPv4 computation : http://jodies.de/ipcalc
 
 ## Basic commands
 
